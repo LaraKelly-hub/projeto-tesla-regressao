@@ -55,12 +55,19 @@ Esses resultados reforçam a forte relação entre o mercado financeiro e fatore
 Métricas de Treinamento:
 
 MAE: 0.05
+
 RMSE: 0.27
+
 R²: 1.00
+
 Métricas de Teste:
+
 MAE: 0.10
+
 RMSE: 0.27
+
 R²: 1.00
+
 Os resultados indicam alta eficiência do modelo, demonstrando boa capacidade de generalização, mesmo diante das oscilações naturais do mercado financeiro.
 
 🚀 Conclusão
